@@ -1,5 +1,5 @@
 
-int ()
+int main()
 {
     float nota1, nota2, media;
     printf("Digite a sua primeira nota por gentileza: \n");
